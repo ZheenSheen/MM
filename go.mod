@@ -1,3 +1,3 @@
-module github.com/ZheenSheen/Project2
+module github.com/ZheenSheen/MM
 
 go 1.19
